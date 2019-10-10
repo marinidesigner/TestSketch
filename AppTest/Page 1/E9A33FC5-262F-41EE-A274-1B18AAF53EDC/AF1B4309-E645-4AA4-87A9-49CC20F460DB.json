@@ -1,0 +1,107 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF1B4309-E645-4AA4-87A9-49CC20F460DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CCF79AA8-25C1-42B5-B3BE-E8F86A19EF0C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "733E4E9A-C6BF-4FC1-B36C-FD714E1CF810",
+    "height": 50,
+    "width": 360,
+    "x": 15,
+    "y": 170
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "2. UI Views / Headings / 1. Large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C4A98D0-906D-416E-8F84-965BB4F3EABA",
+      "overrideName": "70D62492-1217-40C7-A02F-15D8FB8E371E_stringValue",
+      "value": "Popular Tours"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE8B71B2-18CA-4658-9380-838C45C22908",
+      "overrideName": "4ED728DA-5887-4534-98AE-528D9AA36876/5E8C2EBB-5963-45C0-BD8C-8231297E33DE_stringValue",
+      "value": "See All"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1E088526-6410-48EA-A618-D55AEC95545A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "D66F35E0-C72F-4A28-AE1B-6F072B3C196F",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "7531009A-A484-4B97-B36D-E10B6F5D58EE",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "149A1CF2-ECF0-410F-8978-147262C67284",
+      "opacity": 1
+    },
+    "do_objectID": "60533143-157F-42B9-9B65-7F4E9CF60D64",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "82E37A2D-754C-479B-9033-DB91D8F8DAE3",
+  "verticalSpacing": 0
+}

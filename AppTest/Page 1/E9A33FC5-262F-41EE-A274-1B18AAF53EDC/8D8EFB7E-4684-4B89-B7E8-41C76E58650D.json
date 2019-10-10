@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D8EFB7E-4684-4B89-B7E8-41C76E58650D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B6BE45F-0B94-4F41-9A16-A95D0F83A2D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC774549-C290-4F8B-AB46-54BC2C86383E",
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "1. Bars / 1. Status Bar / iPhone X",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78AD3F8D-51D8-4408-AF90-AB8ABB0A38A3",
+      "overrideName": "5DCBFA3A-109E-4925-A480-6B9A1A82FB16_layerStyle",
+      "value": "D9BF132E-98B8-4FDA-886E-5D19B1AF51C5"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C7BA57F7-9D9B-4FAD-B6D0-57F4207ED231",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "7E377F05-7928-4CB1-9B19-CC73B09E77C1",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "80A7375E-F282-42A3-937B-9F0639E51564",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "9F54678F-4A7E-4500-B02E-9791B8D55451",
+      "opacity": 1
+    },
+    "do_objectID": "A8F84A3F-E37F-4C5B-8F1F-870191219880",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1158D065-A1B3-49B0-BB18-9964F2C7076B",
+  "verticalSpacing": 0
+}
